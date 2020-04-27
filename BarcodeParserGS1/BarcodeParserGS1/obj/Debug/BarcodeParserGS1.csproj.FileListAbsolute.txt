@@ -1,0 +1,10 @@
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\bin\Debug\BarcodeParserGS1.exe.config
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\bin\Debug\BarcodeParserGS1.exe
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\bin\Debug\BarcodeParserGS1.pdb
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.Form1.resources
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.Properties.Resources.resources
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.exe
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.pdb
+C:\Users\Martin\source\repos\BarcodeParserGS1\BarcodeParserGS1\obj\Debug\BarcodeParserGS1.csprojAssemblyReference.cache
